@@ -1,0 +1,7 @@
+[user]
+	email = azeem.arshad@10xengineers.ai
+	name = Muhammad Azeem Arshad
+[alias]
+	graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /home/lpt-67/.gitignore_global
